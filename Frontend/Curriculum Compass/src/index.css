@@ -1,5 +1,10 @@
-*{
-    margin: 0px;
-    padding: 0px;
+/* styles/index.css */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+/* Your custom styles */
 
+* {
+  margin: 0px;
+  padding: 0px;
 }
