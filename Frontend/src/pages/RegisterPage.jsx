@@ -2,6 +2,7 @@ import Navbar from "../component/navbar";
 import educator from "../assets/img/educator.png";
 import admin from "../assets/img/admin.png";
 import curriculumDev from "../assets/img/curri.png";
+
 const RegisterPage = () => {
   return (
     <div className="flex">
